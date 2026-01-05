@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+dse_ai.db
+data/
+history/
+student_profile.md
+config.json
+.env
+*.log
